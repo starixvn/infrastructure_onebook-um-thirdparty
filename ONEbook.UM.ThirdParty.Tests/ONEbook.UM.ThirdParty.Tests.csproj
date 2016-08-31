@@ -99,7 +99,7 @@
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ONEbook.UM.N7\ONEbook.UM.ThirdParty.csproj">
+    <ProjectReference Include="..\ONEbook.UM.ThirdParty\ONEbook.UM.ThirdParty.csproj">
       <Project>{581ed0ed-4aac-4dd4-bc28-4e99d9861911}</Project>
       <Name>ONEbook.UM.ThirdParty</Name>
     </ProjectReference>

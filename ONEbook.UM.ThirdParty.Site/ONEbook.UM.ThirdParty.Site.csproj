@@ -150,7 +150,7 @@
     <Folder Include="Views\Token\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ONEbook.UM.N7\ONEbook.UM.ThirdParty.csproj">
+    <ProjectReference Include="..\ONEbook.UM.ThirdParty\ONEbook.UM.ThirdParty.csproj">
       <Project>{581ed0ed-4aac-4dd4-bc28-4e99d9861911}</Project>
       <Name>ONEbook.UM.ThirdParty</Name>
     </ProjectReference>

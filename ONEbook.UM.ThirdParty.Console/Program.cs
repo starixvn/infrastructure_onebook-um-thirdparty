@@ -1,6 +1,6 @@
 ﻿namespace ONEbook.UM.ThirdParty.Console
 {
-    using ONEbook.UM.N7.Services.Impl;
+    using ONEbook.UM.ThirdParty.Services.Impl;
 
     internal class Program
     {

@@ -74,7 +74,7 @@
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ONEbook.UM.N7.Api\ONEbook.UM.ThirdParty.Api.csproj">
+    <ProjectReference Include="..\ONEbook.UM.ThirdParty.Api\ONEbook.UM.ThirdParty.Api.csproj">
       <Project>{38c7544e-d774-4162-a809-5bbe281ce5d5}</Project>
       <Name>ONEbook.UM.ThirdParty.Api</Name>
     </ProjectReference>
