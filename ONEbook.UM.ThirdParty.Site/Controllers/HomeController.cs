@@ -25,7 +25,6 @@
         public ActionResult Login()
         {
             var underMaintenanceTime = _umController.GetUnderMaintenanceTime(23);
-            var notText = underMaintenanceTime.IsUnderMaintenanceTime ? string.Empty : "not";
 
             var contentResult = new ContentResult();
 

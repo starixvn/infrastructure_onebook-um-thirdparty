@@ -18,8 +18,6 @@
         private const string UMResultCacheDurationName = "UMResultCacheDuration";
         private const string ProductsName = "Products";
 
-        private static IList<Tuple<string, string>> _allowIPs;
-
         private static UMClientConfiguration settings;
 
         public static UMClientConfiguration Settings
